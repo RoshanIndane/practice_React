@@ -1,0 +1,8 @@
+img{
+  width: 40px;
+  height: 70px;
+}
+
+table, th, td{
+  border: double 2px black;
+}
