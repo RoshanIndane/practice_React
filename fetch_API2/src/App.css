@@ -1,0 +1,15 @@
+img{
+  width: 200px;
+  height: 100px;
+}
+#main{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#child{
+
+  width: 200px ;
+  height: 250px;
+  border: double 2px black;
+}
